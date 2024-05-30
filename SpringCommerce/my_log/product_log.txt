@@ -1,0 +1,21 @@
+INSERT product at: 2024-04-27 17:10:59
+Product Id: 6e7d5961-48a0-4df5-955c-3c22bd4f56e8
+--------------------
+INSERT product at: 2024-04-27 17:12:47
+Product Id: 01e8dee5-6824-4116-bd63-00702978890b
+--------------------
+Update product at: 2024-04-27 17:18:31
+Product Id: 01e8dee5-6824-4116-bd63-00702978890b
+--------------------
+DELETE product at: 2024-04-27 17:21:30
+Product Id: 01e8dee5-6824-4116-bd63-00702978890b
+--------------------
+DELETE product at: 2024-04-27 17:56:39
+Product Id: 0040f59c-b530-4e33-ac42-e151d154de2d
+--------------------
+UPDATE product at: 2024-04-27 17:56:59
+Product Id: 0040f59c-b530-4e33-ac42-e151d154de2d
+--------------------
+INSERT product at: 2024-04-27 17:58:47
+Product Id: cfbbdb58-04fd-4e23-9dd2-c728156fb488
+--------------------
